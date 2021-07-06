@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="a85dfc801b5ea010a2fd1067bc4bcb92" table="sys_data_policy2">
+    <sys_data_policy2 action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <apply_import_set>true</apply_import_set>
+        <apply_soap>true</apply_soap>
+        <conditions/>
+        <description/>
+        <enforce_ui>true</enforce_ui>
+        <inherit>false</inherit>
+        <model_id/>
+        <model_table>x_559164_shopping_shopping_item</model_table>
+        <reverse_if_false>true</reverse_if_false>
+        <short_description>Sets the Item field to mandatory</short_description>
+        <sys_class_name>sys_data_policy2</sys_class_name>
+        <sys_created_by>mandoosorio</sys_created_by>
+        <sys_created_on>2021-02-15 21:08:55</sys_created_on>
+        <sys_domain>a85dfc801b5ea010a2fd1067bc4bcb92</sys_domain>
+        <sys_domain_path>!!&amp;/</sys_domain_path>
+        <sys_id>83a924aa1b5a2010a2fd1067bc4bcbcf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Sets the Item field to mandatory</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Shopping List" source="x_559164_shopping">f8d7ece61b5a2010a2fd1067bc4bcbbe</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Shopping List">f8d7ece61b5a2010a2fd1067bc4bcbbe</sys_scope>
+        <sys_update_name>sys_data_policy2_83a924aa1b5a2010a2fd1067bc4bcbcf</sys_update_name>
+        <sys_updated_by>mandoosorio</sys_updated_by>
+        <sys_updated_on>2021-02-15 21:08:55</sys_updated_on>
+    </sys_data_policy2>
+</record_update>

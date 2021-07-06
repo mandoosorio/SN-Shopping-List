@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="a85dfc801b5ea010a2fd1067bc4bcb92" table="sys_ui_module">
+    <sys_ui_module action="DELETE">
+        <active>true</active>
+        <application display_value="Shopping List">4d80b0ee1b5a2010a2fd1067bc4bcb31</application>
+        <filter/>
+        <name>Storesss</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles/>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>mandoosorio</sys_created_by>
+        <sys_created_on>2021-02-15 21:38:49</sys_created_on>
+        <sys_domain>a85dfc801b5ea010a2fd1067bc4bcb92</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>d35030ee1b5a2010a2fd1067bc4bcb0e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Storesss</sys_name>
+        <sys_package display_value="Shopping List" source="x_559164_shopping">f8d7ece61b5a2010a2fd1067bc4bcbbe</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Shopping List">f8d7ece61b5a2010a2fd1067bc4bcbbe</sys_scope>
+        <sys_update_name>sys_ui_module_d35030ee1b5a2010a2fd1067bc4bcb0e</sys_update_name>
+        <sys_updated_by>mandoosorio</sys_updated_by>
+        <sys_updated_on>2021-02-15 21:38:49</sys_updated_on>
+        <table>x_559164_shopping_shopping_item</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Shopping List">f8d7ece61b5a2010a2fd1067bc4bcbbe</application>
+        <file_path/>
+        <instance_id>b5785b11db548850387021c405961959</instance_id>
+        <instance_name>dev94220</instance_name>
+        <name>sys_ui_module_d35030ee1b5a2010a2fd1067bc4bcb0e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="a85dfc801b5ea010a2fd1067bc4bcb92" table="sys_ui_module"><sys_ui_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Shopping List">4d80b0ee1b5a2010a2fd1067bc4bcb31</application><filter/><name>Storesss</name><order/><path/><path_relative_to_root>false</path_relative_to_root><roles/><sys_class_name>sys_ui_module</sys_class_name><sys_created_by>mandoosorio</sys_created_by><sys_created_on>2021-02-15 21:38:49</sys_created_on><sys_domain>a85dfc801b5ea010a2fd1067bc4bcb92</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>d35030ee1b5a2010a2fd1067bc4bcb0e</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Storesss</sys_name><sys_package display_value="Shopping List" source="x_559164_shopping">f8d7ece61b5a2010a2fd1067bc4bcbbe</sys_package><sys_policy/><sys_scope display_value="Shopping List">f8d7ece61b5a2010a2fd1067bc4bcbbe</sys_scope><sys_update_name>sys_ui_module_d35030ee1b5a2010a2fd1067bc4bcb0e</sys_update_name><sys_updated_by>mandoosorio</sys_updated_by><sys_updated_on>2021-02-15 21:38:49</sys_updated_on><table>x_559164_shopping_shopping_item</table><uncancelable>false</uncancelable><view_name/></sys_ui_module></record_update>]]></payload>
+        <payload_hash>832643114</payload_hash>
+        <record_name>Storesss</record_name>
+        <reverted_from/>
+        <source>78d7ece61b5a2010a2fd1067bc4bcbc0</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>mandoosorio</sys_created_by>
+        <sys_created_on>2021-02-15 21:38:49</sys_created_on>
+        <sys_id>8180b0ee1b5a2010a2fd1067bc4bcb38</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>177a7a1b73f0000001</sys_recorded_at>
+        <sys_updated_by>mandoosorio</sys_updated_by>
+        <sys_updated_on>2021-02-15 21:38:49</sys_updated_on>
+        <type>Module</type>
+        <update_guid>c980b0ee265a201036008f8a60676837</update_guid>
+        <update_guid_history>c980b0ee265a201036008f8a60676837:832643114</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>mandoosorio</sys_created_by>
+        <sys_created_on>2021-02-15 21:44:18</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_module">sys_ui_module</sys_db_object>
+        <sys_id>02a5c9e4d5624176a4f4c7f2664e1584</sys_id>
+        <sys_metadata>d35030ee1b5a2010a2fd1067bc4bcb0e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Storesss</sys_name>
+        <sys_package display_value="Shopping List" source="x_559164_shopping">f8d7ece61b5a2010a2fd1067bc4bcbbe</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Shopping List">f8d7ece61b5a2010a2fd1067bc4bcbbe</sys_scope>
+        <sys_scope_delete display_value="">20e0f26d0ac247248b0273f213a76309</sys_scope_delete>
+        <sys_update_name>sys_ui_module_d35030ee1b5a2010a2fd1067bc4bcb0e</sys_update_name>
+        <sys_update_version display_value="sys_ui_module_d35030ee1b5a2010a2fd1067bc4bcb0e">8180b0ee1b5a2010a2fd1067bc4bcb38</sys_update_version>
+        <sys_updated_by>mandoosorio</sys_updated_by>
+        <sys_updated_on>2021-02-15 21:44:18</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

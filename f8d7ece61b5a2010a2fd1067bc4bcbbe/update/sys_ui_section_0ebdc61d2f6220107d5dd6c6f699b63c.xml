@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="0ebdc61d2f6220107d5dd6c6f699b63c" sys_domain="a85dfc801b5ea010a2fd1067bc4bcb92" table="x_559164_shopping_shopping_item" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>item</element>
+            <position>0</position>
+            <sys_created_by>mandoosorio</sys_created_by>
+            <sys_created_on>2021-02-24 17:29:19</sys_created_on>
+            <sys_id>46bdc61d2f6220107d5dd6c6f699b643</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_559164_shopping_shopping_item" sys_domain="a85dfc801b5ea010a2fd1067bc4bcb92" view="Default view">0ebdc61d2f6220107d5dd6c6f699b63c</sys_ui_section>
+            <sys_updated_by>mandoosorio</sys_updated_by>
+            <sys_updated_on>2021-02-24 17:29:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>1</position>
+            <sys_created_by>mandoosorio</sys_created_by>
+            <sys_created_on>2021-02-24 17:29:19</sys_created_on>
+            <sys_id>c6bdc61d2f6220107d5dd6c6f699b643</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_559164_shopping_shopping_item" sys_domain="a85dfc801b5ea010a2fd1067bc4bcb92" view="Default view">0ebdc61d2f6220107d5dd6c6f699b63c</sys_ui_section>
+            <sys_updated_by>mandoosorio</sys_updated_by>
+            <sys_updated_on>2021-02-24 17:29:19</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>store</element>
+            <position>2</position>
+            <sys_created_by>mandoosorio</sys_created_by>
+            <sys_created_on>2021-02-24 17:29:19</sys_created_on>
+            <sys_id>4abdc61d2f6220107d5dd6c6f699b643</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_559164_shopping_shopping_item" sys_domain="a85dfc801b5ea010a2fd1067bc4bcb92" view="Default view">0ebdc61d2f6220107d5dd6c6f699b63c</sys_ui_section>
+            <sys_updated_by>mandoosorio</sys_updated_by>
+            <sys_updated_on>2021-02-24 17:29:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>purchased</element>
+            <position>3</position>
+            <sys_created_by>mandoosorio</sys_created_by>
+            <sys_created_on>2021-02-24 17:29:19</sys_created_on>
+            <sys_id>cabdc61d2f6220107d5dd6c6f699b643</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_559164_shopping_shopping_item" sys_domain="a85dfc801b5ea010a2fd1067bc4bcb92" view="Default view">0ebdc61d2f6220107d5dd6c6f699b63c</sys_ui_section>
+            <sys_updated_by>mandoosorio</sys_updated_by>
+            <sys_updated_on>2021-02-24 17:29:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>4</position>
+            <sys_created_by>mandoosorio</sys_created_by>
+            <sys_created_on>2021-02-24 17:29:19</sys_created_on>
+            <sys_id>4ebdc61d2f6220107d5dd6c6f699b643</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_559164_shopping_shopping_item" sys_domain="a85dfc801b5ea010a2fd1067bc4bcb92" view="Default view">0ebdc61d2f6220107d5dd6c6f699b63c</sys_ui_section>
+            <sys_updated_by>mandoosorio</sys_updated_by>
+            <sys_updated_on>2021-02-24 17:29:19</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>quantity</element>
+            <position>5</position>
+            <sys_created_by>mandoosorio</sys_created_by>
+            <sys_created_on>2021-02-24 17:29:19</sys_created_on>
+            <sys_id>cebdc61d2f6220107d5dd6c6f699b643</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_559164_shopping_shopping_item" sys_domain="a85dfc801b5ea010a2fd1067bc4bcb92" view="Default view">0ebdc61d2f6220107d5dd6c6f699b63c</sys_ui_section>
+            <sys_updated_by>mandoosorio</sys_updated_by>
+            <sys_updated_on>2021-02-24 17:29:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>6</position>
+            <sys_created_by>mandoosorio</sys_created_by>
+            <sys_created_on>2021-02-24 17:29:19</sys_created_on>
+            <sys_id>42bdc61d2f6220107d5dd6c6f699b644</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_559164_shopping_shopping_item" sys_domain="a85dfc801b5ea010a2fd1067bc4bcb92" view="Default view">0ebdc61d2f6220107d5dd6c6f699b63c</sys_ui_section>
+            <sys_updated_by>mandoosorio</sys_updated_by>
+            <sys_updated_on>2021-02-24 17:29:19</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_559164_shopping_shopping_item</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>mandoosorio</sys_created_by>
+            <sys_created_on>2021-02-24 17:29:19</sys_created_on>
+            <sys_domain>a85dfc801b5ea010a2fd1067bc4bcb92</sys_domain>
+            <sys_domain_path>!!&amp;/</sys_domain_path>
+            <sys_id>0ebdc61d2f6220107d5dd6c6f699b63c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_559164_shopping_shopping_item</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Shopping List" source="x_559164_shopping">f8d7ece61b5a2010a2fd1067bc4bcbbe</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Shopping List">f8d7ece61b5a2010a2fd1067bc4bcbbe</sys_scope>
+            <sys_update_name>sys_ui_section_0ebdc61d2f6220107d5dd6c6f699b63c</sys_update_name>
+            <sys_updated_by>mandoosorio</sys_updated_by>
+            <sys_updated_on>2021-02-24 17:29:19</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
